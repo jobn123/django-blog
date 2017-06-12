@@ -24,3 +24,4 @@ python manage.py runserver
 
 ## test rest api
 http://127.0.0.1:8000/api/bucketlists/
+![](http://7xoboh.com1.z0.glb.clouddn.com/api.png)
